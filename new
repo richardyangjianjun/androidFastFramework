@@ -1,0 +1,5 @@
+#使用新测试
+
+private void saySomething(){
+    System.out.println("J2SE to android);
+}
